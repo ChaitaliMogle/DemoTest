@@ -12,6 +12,12 @@ public class LoginTest {
 		System.out.println("Test 1 ");
 	}
 	
+	public void HomeTest()
+	{
+		System.out.println("Test 2");
+	}
+	
+	
 	
 	
 	
