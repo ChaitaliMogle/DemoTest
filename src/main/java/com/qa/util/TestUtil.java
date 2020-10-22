@@ -2,12 +2,8 @@ package com.qa.util;
 
 public class TestUtil {
 
-	public void testUtil()
-	{
+	public void testUtil() {
 		System.out.println("Test Util");
 	}
-	
-	
-	
-	
+
 }

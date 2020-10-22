@@ -9,14 +9,10 @@ public class LoginTest {
 	@Test
 	public void LoginTest()
 	{
-		System.out.println("Test 1 ");
+		System.out.println("Test : LoginTest ");
 	}
 	
-	public void HomeTest()
-	{
-		System.out.println("Test 2");
-	}
-	
+
 	
 	
 	
